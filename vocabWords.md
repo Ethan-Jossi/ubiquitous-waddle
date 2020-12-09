@@ -1,4 +1,4 @@
-#Cryptography Vocabulary Words
+# Cryptography Vocabulary Words
 
 **Key** - A piece of information needed to decode and encryption
 **Ceasar Cipher** - Shift every letter in the message by X characters
